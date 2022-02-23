@@ -1,0 +1,101 @@
+* {
+
+    font-family: 'Roboto', sans-serif;
+}
+
+h2 {
+    margin: 128px 277px 12px 16px;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 41px;
+    letter-spacing: 0.41px;
+}
+
+p {
+    font-size: 20px;
+    line-height: 26px;
+    letter-spacing: 0.41px;
+    color: rgba(0, 0, 0, 0.5);
+    margin-left: 16px;
+}
+
+.email {
+    display: block;
+    width: 343px;
+    height: 48px;
+    border-radius: 6px;
+    color: #f2f2f7;
+   /* margin: 102px 16px auto 16px; */
+    background-color: #F2F2F7;
+    border: none;
+    width: calc(100% - 32px);
+
+}
+
+.password {
+    display: block;
+    width: 343px;
+    height: 48px;
+    border-radius: 6px;
+    color: #f2f2f7;
+    margin: 12px 16px auto 16px;
+    background-color: #F2F2F7;
+    border: none;
+}
+
+
+.forgot {
+    display: block;
+    margin: 17px 16px 20px 236px;
+    width: 123px;
+    height: 22px;
+    top: 125px;
+    left: 236px;
+    color: #007AFF;
+    font-size: 16px;
+    line-height: 22px;
+    text-align: center;
+    letter-spacing: -0.41px;
+}
+
+input::placeholder {
+    padding: 13px 291px 13px 14px;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 16px;
+    line-height: 22px;
+    color: #929292;
+    letter-spacing: -0.41px;
+}
+
+button {
+    display: block;
+    padding: 13px 151px;
+    width: 343px;
+    height: 48px;
+    margin: 12px 16px auto 16px;
+    background: rgba(0, 0, 0, 0.94);
+    border-radius: 10px;
+    color: #ffffff;
+    letter-spacing: -0.41px;
+    font-weight: 500;
+    line-height: 22px;
+    size: 17px;
+}
+
+.have-account{
+    
+    /* margin: 754px 75px 38px 75px; */
+    position: absolute;
+    font-weight: 500;
+    font-style: normal;
+    height: 19px;
+    left: 75px;
+    top: 754px;
+    font-size: 16px;
+    line-height: 18,75px;
+    color:rgba(0, 0, 0, 0.51);
+}
+strong{
+    color: #007AFF;
+}
