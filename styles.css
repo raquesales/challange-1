@@ -25,7 +25,7 @@ p {
     height: 48px;
     border-radius: 6px;
     color: #f2f2f7;
-   /* margin: 102px 16px auto 16px; */
+    margin: 12px 16px auto 16px;
     background-color: #F2F2F7;
     border: none;
     width: calc(100% - 32px);
